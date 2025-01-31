@@ -1,0 +1,2 @@
+# PSCS_100-ID-72-Optimizing-Doctor-Availability-Al-Integration.
+The digital system automates hospital appointment scheduling by detecting doctors' presence via mobile proximity or other technologies. AI allocates slots based on availability and waitlisted patients, reducing wait times and enhancing patient experience. This improves efficiency, ensuring a seamless and convenient appointment process.
